@@ -20,7 +20,7 @@ class App extends Component {
       selectedVideo: null
      };
 
-    this.videoSearch('casually explained');
+    this.videoSearch('');
   }
 
   videoSearch(term) {
